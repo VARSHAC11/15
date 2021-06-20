@@ -6,10 +6,10 @@
   <body>
     <h1>VARSHA</h1>
     <p>
-      Name:Varsha
-      City:Coimbatore
-      State:TamilNadu
-      Country:India
+      Name:Varsha,
+      City:Coimbatore,
+      State:TamilNadu,
+      Country:India,
       
        </body>  
 </html>
