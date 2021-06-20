@@ -1,4 +1,5 @@
 Is it necessary to write HEAD, BODY and HTML tags?
+
 no they are not necessary,even without these tags html works fine,but the structure of DOM tree differs
 Eg:
 <!DOCTYPE html>
@@ -22,3 +23,5 @@ HTML
            BODY
                INPUT name="var1"
     BODY
+Early versions of html doesn't need it
+only after html 2.0 ,these tags were inferred when missing
